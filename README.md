@@ -1,0 +1,2 @@
+# StockTicker
+Simple Stocks viewer
